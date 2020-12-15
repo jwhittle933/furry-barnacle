@@ -1,0 +1,17 @@
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/obj/Debug/net5.0/BibleAPI.csprojAssemblyReference.cache
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/obj/Debug/net5.0/BibleAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/obj/Debug/net5.0/BibleAPI.AssemblyInfoInputs.cache
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/obj/Debug/net5.0/BibleAPI.AssemblyInfo.cs
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/obj/Debug/net5.0/BibleAPI.csproj.CoreCompileInputs.cache
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/bin/Debug/net5.0/BibleAPI.deps.json
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/bin/Debug/net5.0/BibleAPI.runtimeconfig.json
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/bin/Debug/net5.0/BibleAPI.runtimeconfig.dev.json
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/bin/Debug/net5.0/BibleAPI.dll
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/bin/Debug/net5.0/ref/BibleAPI.dll
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/bin/Debug/net5.0/BibleAPI.pdb
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/obj/Debug/net5.0/BibleAPI.dll
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/obj/Debug/net5.0/ref/BibleAPI.dll
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/obj/Debug/net5.0/BibleAPI.pdb
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/obj/Debug/net5.0/BibleAPI.genruntimeconfig.cache
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/bin/Debug/net5.0/System.CommandLine.dll
+/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/obj/Debug/net5.0/BibleAPI.csproj.CopyComplete

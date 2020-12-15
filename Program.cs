@@ -1,0 +1,1 @@
+﻿using System;using BibleAPI.Service.API;namespace BibleAPI{    class BibleAPI    {        static void Main(string[] args)        {        	// starts on default 8080        	API api = new API();        }    }}

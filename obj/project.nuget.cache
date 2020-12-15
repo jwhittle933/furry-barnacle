@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qh1e3awSxp6V95wK5j/jkohI5/ngvmpf6jOyZA5wgG1vdpTd70R1O4wE2CCjiLq1bIyeqWj/w7huguyTFl6k7w==",
+  "success": true,
+  "projectFilePath": "/Users/jonathanwhittle/Development/Personal/cs/BibleAPI/BibleAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/jonathanwhittle/.nuget/packages/microsoft.csharp/4.4.1/microsoft.csharp.4.4.1.nupkg.sha512",
+    "/Users/jonathanwhittle/.nuget/packages/system.commandline/2.0.0-beta1.20574.7/system.commandline.2.0.0-beta1.20574.7.nupkg.sha512",
+    "/Users/jonathanwhittle/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
