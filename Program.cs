@@ -1,1 +1,1 @@
-﻿using System;using BibleAPI.Service.API;namespace BibleAPI{    class BibleAPI    {        static void Main(string[] args)        {        	// starts on default 8080        	API api = new API();        }    }}
+﻿using System;using System.Net;using System.Text;using BibleAPI.Service;using BibleAPI.Service.API;namespace BibleAPI{    class BibleAPI    {        static void Main(string[] args)        {        	BibleService service = new BibleService();        	API api = new API(8080, service);        	api.Start();        }    }}
